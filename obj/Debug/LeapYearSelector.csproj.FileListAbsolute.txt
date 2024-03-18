@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\LeapYearSelector\bin\Debug\LeapYearSelector.exe.config
+C:\Users\admin\source\repos\LeapYearSelector\bin\Debug\LeapYearSelector.exe
+C:\Users\admin\source\repos\LeapYearSelector\bin\Debug\LeapYearSelector.pdb
+C:\Users\admin\source\repos\LeapYearSelector\obj\Debug\LeapYearSelector.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\LeapYearSelector\obj\Debug\LeapYearSelector.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\LeapYearSelector\obj\Debug\LeapYearSelector.Form1.resources
+C:\Users\admin\source\repos\LeapYearSelector\obj\Debug\LeapYearSelector.Properties.Resources.resources
+C:\Users\admin\source\repos\LeapYearSelector\obj\Debug\LeapYearSelector.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\LeapYearSelector\obj\Debug\LeapYearSelector.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\LeapYearSelector\obj\Debug\LeapYearSelector.exe
+C:\Users\admin\source\repos\LeapYearSelector\obj\Debug\LeapYearSelector.pdb
